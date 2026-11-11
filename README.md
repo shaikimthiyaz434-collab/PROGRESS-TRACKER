@@ -40,7 +40,7 @@ PROGRESS-TRACKER/
 │
 ├── progress_tracker.py
 ├── README.md
-└── progress.json
+
 
 Note: progress.json is used for storing application data if created by the program.
 
